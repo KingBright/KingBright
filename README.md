@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Thinking is important, and after that moving is even more important.
 
-- 🤓 A programmer, with lots of curiosity.
+- 🤓 A programmer, having lots of curiosity.
 - 🤖 A formerly Android developer, not very skilled frontend and backend developer.
 - 🦀 Learning && using rust now, and it's really hard for me.
 - 🎨 Learning computer graphics, and it's even harder.
