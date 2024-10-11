@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thinking is important, and after that moving is even more important.
+Thinking is important, and moving is more important.
 
 - 🤓 A fullstack programmer with lots of curiosity.
 - 🦀 Learning and using rust now, and it's really hard for me.
